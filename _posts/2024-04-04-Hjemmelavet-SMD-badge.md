@@ -7,11 +7,7 @@ categories: [Blogging, Elektronik]
 tags: [lodning badge, SMD, hotplate, microcontroller]
 ---
 
-## Images
-
-### Default (with caption)
-
-![Desktop View](/assets/img/Badge.webp){: width="972" height="589" }
+![Desktop View](/assets/img/Badge.webp)
 
 Eventyret startede på [BornHack 2023](https://bornhack.dk/bornhack-2023/program/1337-hax-smd-badge-soldering-workshop/)
 
