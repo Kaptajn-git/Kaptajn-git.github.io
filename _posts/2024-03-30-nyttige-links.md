@@ -2,7 +2,7 @@
 title: "Nyttige Links"
 description: Samling af div. links og hjælpemidler
 date:   2024-03-30 10:03:58 +0100
-author: Kaptajn-git
+author: Kaptajn
 categories: [Blogging, Update]
 tags: [help]
 image:
