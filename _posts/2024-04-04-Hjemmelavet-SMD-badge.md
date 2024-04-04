@@ -9,10 +9,6 @@ image:
  path: /assets/img/Badge.webp
 ---
 
-![Desktop View](/assets/img/Badge.webp)
-
-Eventyret startede på [BornHack 2023](https://bornhack.dk/bornhack-2023/program/1337-hax-smd-badge-soldering-workshop/)
-
 #### Fremstilling af programmer til PADAUK PFS154-S1:
 
 * <https://github.com/free-pdk/easy-pdk-programmer-hardware>
