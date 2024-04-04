@@ -9,6 +9,8 @@ image:
  path: /assets/img/Badge.webp
 ---
 
+#### På BornHack 2023 deltog jeg i en worshops, der introducerede hvor let det er at SMD-lode, og lave sit eget LED-badge. Jeg tog udfordringen op, og har efterfølgende med success genskabt denne workshop.
+
 #### Fremstilling af programmer til PADAUK PFS154-S1:
 
 * <https://github.com/free-pdk/easy-pdk-programmer-hardware>
