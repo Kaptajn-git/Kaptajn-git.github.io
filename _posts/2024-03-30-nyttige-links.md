@@ -23,3 +23,9 @@ image:
 
 #### Zigbee devices:
 <https://zigbee.blakadder.com/>
+
+#### Online Serial Flasher utility for Espressif chips (virker med Google  Chrome)
+<https://espressif.github.io/esptool-js/>
+
+#### Google color picker
+<https://g.co/kgs/MLkR81v>
