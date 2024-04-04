@@ -1,5 +1,5 @@
 ---
-icon: fas fa-info-circle
+icon: fas fa-list
 order: 5
 ---
 
