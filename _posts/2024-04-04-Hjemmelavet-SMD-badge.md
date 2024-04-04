@@ -7,4 +7,4 @@ categories: [Blogging, Elektronik]
 tags: [SMD-lodning]
 ---
 
-## Eventyret startede på BornHack 2023
+Eventyret startede på [BornHack 2023](https://bornhack.dk/bornhack-2023/program/1337-hax-smd-badge-soldering-workshop/)
