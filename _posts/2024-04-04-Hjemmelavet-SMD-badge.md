@@ -1,7 +1,7 @@
 ---
 title: Hjemmelavet SMD-badge
 description: Hjemmelavet SMD lodet navneskilt.
-author: Kaptajn
+author: Kaptajn-git
 date: 2024-04-04 11:33:00 +0100
 categories: [Blogging, Elektronik]
 tags: [lodning badge, SMD, hotplate, microcontroller]
