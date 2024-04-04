@@ -9,7 +9,7 @@ image:
  path: /assets/img/Badge.webp
 ---
 
-#### På [BornHack 2023](https://bornhack.dk/bornhack-2023/program/1337-hax-smd-badge-soldering-workshop/) deltog jeg i en worshop, der introducerede hvor let det er at SMD-lode, og lave sit eget LED-badge. Jeg tog udfordringen op, og har efterfølgende med success genskabt denne workshop.
+#### På [BornHack 2023](https://bornhack.dk/bornhack-2023/program/1337-hax-smd-badge-soldering-workshop/) deltog jeg i en worshop, der introducerede hvor let det er at SMD-lodde, og lave sit eget LED-badge. Jeg tog udfordringen op, og har efterfølgende med success genskabt denne workshop.
 
 #### Fremstilling af programmer til PADAUK PFS154-S1:
 
