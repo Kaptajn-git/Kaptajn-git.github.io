@@ -3,6 +3,8 @@ title: "Nyttige Links"
 date:   2024-03-30 10:03:58 +0100
 categories: [Kaptajn, Update]
 tags: [help]
+image:
+ path: /assets/img/helperlinks.webp
 ---
 
 #### ISO Language Code Table:
