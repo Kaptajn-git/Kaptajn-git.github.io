@@ -9,6 +9,8 @@ image:
  path: /assets/img/helperlinks.webp
 ---
 
+#### Min liste over online værktøjer, diverse nyttige hjemmesider og hjælpemidler til forskællige projekter:
+
 #### ISO Language Code Table:
 <https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes>
 
