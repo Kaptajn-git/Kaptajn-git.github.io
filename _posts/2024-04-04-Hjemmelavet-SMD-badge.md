@@ -13,11 +13,11 @@ Eventyret startede på [BornHack 2023](https://bornhack.dk/bornhack-2023/program
 
 #### Fremstilling af programmer til PADAUK PFS154-S1:
 
-<https://github.com/free-pdk/easy-pdk-programmer-hardware>
-<https://github.com/free-pdk/easy-pdk-programmer-software>
+* <https://github.com/free-pdk/easy-pdk-programmer-hardware>
+* <https://github.com/free-pdk/easy-pdk-programmer-software>
 
 #### Fremstilling af Badge:
 
-<https://github.com/hackwinkel/label-hardware>
-<https://github.com/hackwinkel/label-software>
+* <https://github.com/hackwinkel/label-hardware>
+* <https://github.com/hackwinkel/label-software>
 
