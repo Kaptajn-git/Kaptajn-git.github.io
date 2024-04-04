@@ -2,8 +2,8 @@
 title: "Nyttige Links"
 description: Samling af div. links og hjælpemidler
 date:   2024-03-30 10:03:58 +0100
-author: Kaptajn
-categories: [Kaptajn, Update]
+author: Kaptajn-git
+categories: [Blogging, Update]
 tags: [help]
 image:
  path: /assets/img/helperlinks.webp
@@ -17,3 +17,9 @@ image:
 
 #### Favicon Generator:
 <https://realfavicongenerator.net/>
+
+#### Tasmota devices:
+<https://templates.blakadder.com/>
+
+#### Zigbee devices:
+<https://zigbee.blakadder.com/>
