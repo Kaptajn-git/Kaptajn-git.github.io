@@ -9,7 +9,7 @@ image:
  path: /assets/img/helperlinks.webp
 ---
 
-#### Min liste over online værktøjer, diverse nyttige hjemmesider og hjælpemidler til forskellige projekter:
+#### Min liste over online værktøjer, diverse nyttige hjemmesider og hjælpemidler til forskellige projekter.
 
 #### ISO Language Code Table:
 <https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes>
@@ -26,8 +26,11 @@ image:
 #### Zigbee devices:
 <https://zigbee.blakadder.com/>
 
-#### Online Serial Flasher utility for Espressif chips (virker med Google  Chrome)
+#### Online Serial Flasher utility for Espressif chips (virker med Google  Chrome):
 <https://espressif.github.io/esptool-js/>
 
-#### Google color picker
+#### Google color picker:
 <https://g.co/kgs/MLkR81v>
+
+#### List of Unicode characters:
+<https://en.wikipedia.org/wiki/List_of_Unicode_characters>
