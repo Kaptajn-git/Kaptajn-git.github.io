@@ -9,7 +9,7 @@ image:
  path: /assets/img/bornhack-2024-logo.webp
 ---
 
-Oplæg til Coding Pirates deltagels på Borhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. Oplæget er lavet på dansk. Men af hensyn til deltagerernes forskællige nationaliteter, er engelsk foretukket.
+Oplæg til Coding Pirates deltagels på Borhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. Oplæget er lavet på dansk. Men af hensyn til deltagerernes forskellige nationaliteter, er engelsk foretukket.
 
 ### Annoncering:
 Hvilke steder skal/bør vi annoncere? For at kunne styre tilmeldingen til WS er det en god ide, at lave en form for annoncering og tilmelding. Det er tidligere set på BH at deltager antallet kan "eksplodere" til en WS. Hvorfor en opsamling har været nødvendigt. 
@@ -44,17 +44,20 @@ Bedre og mere detaljeret eks:
 * Medbring PC eller laptop
 * Lær at installere LinuxMint
 * Gratis WS
-* Ansvarlig frivillig
 * Max 15 deltagere
+* Ansvarlig frivillig
 
 #### Søndag:
 ##### Kom i gang med ESP-programmering
 * Lær af programmere en ESP32. Vi installerer
 * Medbring PC eller laptop
 * Pris: 200 HAX
+* Max 15 deltagere
 * Ansvarlig frivillig
 
 ### Indlogering:
+BH er en udendørs begivenhed hvor næsten alle deltagere ligger i telt. Det er også muligt at medbringe campingvogn, caravans, motorhomes osv. Der er dog specielle regler for disse. Lejren er opbygget i forskellige zoner, se også kort: https://bornhack.dk/bornhack-2024/info/#venue
+Jeg nævner det her for at minde om, at det er muligt kun at deltage en enkelt dag. Men deltager man flere dage. Skal enten kørsel frem og tilbage, eller overnatnings muligheder overvejes.
 
 ### Sponsering og betaling:
 Det er altid svært at styrre økonomien. For at deltage på BH kan man betale for 1,2,x antal dage. Og op til en uge. Se priserne i shoppen https://bornhack.dk/shop/
