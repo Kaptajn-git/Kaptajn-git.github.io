@@ -4,6 +4,4 @@ order: 5
 ---
 
 * Hack the world
-* Sov
-* Æd
-* Knep
+* Hack the univers
