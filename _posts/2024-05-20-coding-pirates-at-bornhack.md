@@ -1,8 +1,8 @@
 ---
-title: Coding Pirates @ BornHack 2024
+title: Coding Pirates på BornHack 2024
 description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
 author: Kaptajn
-date: 2024-05-20 20:33:00 +0100
+date: 2024-05-20 20:00:00 +0100
 categories: [Blogging, Camping, Bornhack]
 tags: [planing, coding-pirates]
 image:
