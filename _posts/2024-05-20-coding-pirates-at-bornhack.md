@@ -20,14 +20,7 @@ Hvilke steder skal/bør vi annoncere? For at kunne styre tilmeldingen til WS er 
 ### Program Workshops (WS):
 Vi bør lave en form for program, så potientielle deltagere kan se hvor og hvornår de enkelte WS afholdes. Programmet bør indeholde en form for beskrivelse (bare et par linier) så deltagerne kan danne sig en ide om hvad der sker på WS'en. Samtidig kan vi lave opsamling på hvem der er ansvarlige for afholdelsen, af de enkelte WS.
 
-Et hurtigt WS eks.
-| Dag    | Emne                 | Ansvarlig |
-|--------|:--------------------:|----------:|
-| Fredag | Scratch for begyndere| Voksen1   |
-| Lørdag | Linux Install Party  | Voksen2   |
-| Søndag | ESP-programmering    | Voksen1+2 |
-
-Bedre og mere detaljeret eks:
+Eksempler med detaljer:
 #### Fredag:
 ##### Scratch for begyndere
 * Beskrivelse
