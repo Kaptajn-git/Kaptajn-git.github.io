@@ -9,36 +9,50 @@ image:
  path: /assets/img/bornhack-2024-logo.webp
 ---
 
-Oplæg til Coding Pirates deltagels på Borhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. 
+Oplæg til Coding Pirates deltagels på Borhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. Oplæget er lavet på dansk. Men af hensyn til deltagerernes forskællige nationaliteter, er engelsk foretukket.
 
 ### Annoncering:
-Hvilke steder skal/bør vi annoncere? For at kunne styre tilmeldingen til WS er det en god ide ,at lave en form for annoncering og tilmelding. Det er tidligere set på BH at deltager antallet kan eksplodere. Hvorfor at opsamling har været nødvendigt. 
-* Oprettelse af Villages på https://bornhack.dk/bornhack-2024/villages/
-* Tilmelding i de enkelte CP klaner
-* Tilmelding på lejren
+Hvilke steder skal/bør vi annoncere? For at kunne styre tilmeldingen til WS er det en god ide, at lave en form for annoncering og tilmelding. Det er tidligere set på BH at deltager antallet kan "eksplodere" til en WS. Hvorfor en opsamling har været nødvendigt. 
+* Oprettelse af Villages på https://bornhack.dk/bornhack-2024/villages/. Herunder beskrivelse, WS og div. andre nyttige informationer
+* Tilmelding i de enkelte CP klaner. Hvordan og hvem sender og samler information om tilmelding?
+* Tilmelding på lejren. Intern tilmelding for ikke-CP-deltagere på BH.
 
 ### Program Workshops (WS):
+Vi bør lave en form for program, så potientielle deltagere kan se hvor og hvornår de enkelte WS afholdes. Programmet bør indeholde en form for beskrivelse (bare et par linier) så deltagerne kan danne sig en ide om hvad der sker på WS'en. Samtidig kan vi lave opsamling på hvem der er ansvarlige for afholdelsen, af de enkelte WS.
 
+Et hurtigt WS eks.
 | Dag    | Emne                 | Ansvarlig |
 |--------|:--------------------:|----------:|
 | Fredag | Scratch for begyndere| Voksen1   |
 | Lørdag | Linux Install Party  | Voksen2   |
 | Søndag | ESP-programmering    | Voksen1+2 |
 
-#### Dag 1:
-Ansvarlig frivillig:
+Bedre og mere detaljeret eks:
+#### Fredag:
+##### Scratch for begyndere
+* Beskrivelse
+* Hvad skal deltagerne medbringe
+* Hvilke resurser slilles til rådighed
+* Målet med WS
+* Evt. betaling for materieler
+* Ansvarlig frivillig(e)
+* Deltager max om nødvendigt
 
-#### Dag 2:
+#### Lørdag:
+##### Linux Install Party
+* Tag din gl. PC eller laptop med. Og lad os puste nyt liv i din maskime med et rigtigt OS.
+* Medbring PC eller laptop
+* Lær at installere LinuxMint
+* Gratis WS
+* Ansvarlig frivillig
+* Max 15 deltagere
 
-Ansvarlig frivillig:
-
-#### Dag 3:
-Kom i gang med ESP-programmering
-Ansvarlig frivillig:
-
-#### Dag x:
-...
-Ansvarlig frivillig:
+#### Søndag:
+##### Kom i gang med ESP-programmering
+* Lær af programmere en ESP32. Vi installerer
+* Medbring PC eller laptop
+* Pris: 200 HAX
+* Ansvarlig frivillig
 
 ### Indlogering:
 
