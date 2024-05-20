@@ -12,18 +12,24 @@ image:
 Oplæg til Coding Pirates deltagels på Borhack 2024 17. til 24. Juli. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. 
 
 ### Annoncering:
-* Oprettelse af Villages på [BornHack 2024]https://bornhack.dk/bornhack-2024/villages/
+* Oprettelse af Villages på https://bornhack.dk/bornhack-2024/villages/
 * Tilmelding i de enkelte CP klaner
 * Tilmelding på lejren
 
 ### Program Workshops (WS):
 
 #### Dag 1:
-Scratch for begyndere
+
+| Dag    | Emne                 | Ansvarlig |
+|--------|:--------------------:|----------:|
+| Fredag | Scratch for begyndere| Voksen1   |
+| Lørdag | Linux Install Party  | Voksen2   |
+| Søndag | ESP-programmering    | Voksen1+2 |
+
 Ansvarlig frivillig:
 
 #### Dag 2:
-Linux Install Party
+
 Ansvarlig frivillig:
 
 #### Dag 3:
