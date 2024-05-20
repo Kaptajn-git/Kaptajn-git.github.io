@@ -6,7 +6,7 @@ date: 2024-05-20 20:00:00 +0100
 categories: [Blogging, Camping]
 tags: [Bornhack, CodingPirates]
 image:
- path: /assets/img/bornhack-2024-logo-l.webp
+ path: /assets/img/bornhack-2024-logo.webp
 ---
 
 Oplæg til Coding Pirates deltagels på Borhack 2024 17. til 24. Juli. For at komme omkring diverse overvejelser, spørgsmål og andre prakitaliteter har jeg lavet dette oplæg. Oplæget er tensitivt, men kan danne grundlag for den endelige deltagelse, form og layout. 
