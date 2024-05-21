@@ -6,7 +6,7 @@ order: 4
 
 Denne hjemmeside er opstået af et behov for, at blive bedre til at dokummentere og tage noter. Når jeg fusker rundt i mit laboratorium.
 
-Ja, det er muligvis en lortedynge for en udenforstående. Med mindre at du har været en del af projekterne. Eller har direkte adgang til mine kamera og små grå. Skulle du have lyst til at kommentere, supplere eller gratis rette opsætnings- og stavefejl i mine indlæg. Skal du være velkommen til at kontakte mig 😉 Jeg deler meget gerne ud af alle mine erfaringer.
+Ja, det er muligvis en lortedynge for en udenforstående. Med mindre at du har været en del af projekterne. Eller har direkte adgang til mine kamera eller mine små grå. Skulle du have lyst til at kommentere, supplere eller gratis rette opsætnings- og stavefejl i mine indlæg. Skal du være velkommen til at kontakte mig 😉 Jeg deler meget gerne ud af alle mine erfaringer.
 
 Open Source/Hardware. Be excellent to each other and party on, dudes 🥳
 
