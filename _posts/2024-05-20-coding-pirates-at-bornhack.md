@@ -65,5 +65,7 @@ Der er andre udgifter, der skal overvejes ud over billetten. Omkostninger til WS
 * BornHack [Code of Conduct](https://bornhack.dk/conduct/)
 * BornHack på [Youtube](https://www.youtube.com/@BornHack)
   
-> [!NOTE]  
+
 > Tak til Christel for rettelse af stavefejl og korrekturlæsning 🤗
+{: .prompt-info }
+<!-- markdownlint-restore -->
