@@ -33,3 +33,7 @@ image:
 
 #### List of Unicode characters:
 <https://en.wikipedia.org/wiki/List_of_Unicode_characters>
+
+#### Online diagram tegning:
+<https://app.diagrams.net/>
+
