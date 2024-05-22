@@ -10,7 +10,7 @@ Ja, det er muligvis en lortedynge for en udenforstående. Med mindre at du har v
 
 Open Source/Hardware. Be excellent to each other and party on, dudes 🥳
 
-> Nedenstående kan være stødende.
+> Nedenstående kan virke stødende.
 {: .prompt-danger }
 <!-- markdownlint-restore -->
 Jeg vil dog ikke stå til ansvar for, hvordan du vælger at fortolke, hverken mine projekter, indholdet af dette site eller mit mulige stødende sprogvalg og holdninger. Hvis du ikke kan lide lugten i mit bageri, kan du pikle tilbage på facebook. Sammen med dine andre krænkelsesparate, pedalfascistiske, veganer wannabies, og virkligheds forskræmte Østerbro venner. Her er en spade, en spade. En neger, en neger. Og Donald Trump er i mit univers en jubelidiot, og opblæst nar. Hvilket i øvrigt også gælder den hvide abe (Putin) fra Rusland. Peace 😇
