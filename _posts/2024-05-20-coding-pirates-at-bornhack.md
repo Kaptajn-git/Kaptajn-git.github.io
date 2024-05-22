@@ -63,3 +63,5 @@ Der er andre udgifter, der skal overvejes ud over billetten. Omkostninger til WS
 ### Flere nyttige informationer
 * [Info](https://bornhack.dk/bornhack-2024/info/) by the Orga team
 * [Code of Conduct](https://bornhack.dk/conduct/)
+* BornHack på [Youtube](https://www.youtube.com/@BornHack)
+  
